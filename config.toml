@@ -1,0 +1,80 @@
+baseurl = "http://stephenashmore.github.io/"
+languageCode = "en-us"
+title = "Stephen Ashmore"
+
+theme = "hugo-strata-theme"
+# Enable Google Analytics by inserting your tracking code
+# googleAnalytics = ""
+# Define how many posts should appear on a site
+paginate = 10
+
+[params]
+	# To provide some metadata for search engines feel free to add a few
+    # information about you and your website.
+	name = "Stephen Ashmore"
+	description = "Personal site of Stephen Ashmore, a machine learning PhD Candidate at the University of Arkansas"
+
+	# Format dates with Go's time formatting
+	date_format = "2006-01-02"
+
+	# Add custom assets with their paths relative to the static folder
+	custom_js   = []
+	custom_css  = []
+
+	[params.sidebar]
+		# Replace the avatar with a picture of your own under static/images
+		avatar = "avatar.JPG"
+		# Use Markdown to format the string. This works nearly all over the theme
+		bio = "I'm **Stephen Ashmore** a Machine Learning PhD student at the University of Arkansas."
+		# The icons will be shown if you enter your username
+		twitter = ""
+		github = "StephenAshmore"
+		dribbble = ""
+		facebook = ""
+		googleplus = ""
+		flickr = ""
+		linkedin = ""
+
+		copyright = [
+			"&copy; Stephen Ashmore",
+			"Design: [Fork](www.github.com/StephenAshmore)ed from [HTML5 UP](//html5up.net)",
+			# "Demo Images: [Unsplash](//unsplash.com/)"
+		]
+
+	[params.about]
+		hide  = false
+		title = "Hello, I'm *Stephen Ashmore* a Machine Learning Researcher, developer, music dabbler."
+		content = "I work on solving hard problems in the field of machine learning, artificial intelligence, and computer vision. This website contains some of my thoughts, publications, and projects(past and previous). I work at the University of Arkansas as an Instructor, Researcher and PhD candidate. I have a Master's Degree in Machine Learning. Check out my [CV](StephenAshmoreCV.pdf)!"
+
+		address = [
+			"Fayetteville, AR 72704",
+			"United States"
+		]
+
+		email = "stephen@ashmore.io"
+
+# Menu links that appear on the left sidebar
+[[menu.main]]
+	name = "Home"
+	url  = "/"
+	weight = 0
+
+[[menu.main]]
+	name = "CV"
+	url = "StephenAshmoreCV.pdf"
+	weight = 5
+
+[[menu.main]]
+	name = "Blog"
+	url  = "post/"
+	weight = 10
+
+[[menu.main]]
+	name = "Publications"
+	url  = "publication/"
+	weight = 10
+
+[[menu.main]]
+	name = "Projects"
+	url  = "project/"
+	weight = 10

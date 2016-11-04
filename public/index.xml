@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stephen Ashmore</title>
+    <link>https://stephenashmore.gitlab.io/</link>
+    <description>Recent content on Stephen Ashmore</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Sep 2016 18:02:25 -0500</lastBuildDate>
+    <atom:link href="https://stephenashmore.gitlab.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Master&#39;s Thesis, 2015</title>
+      <link>https://stephenashmore.gitlab.io/publication/thesis/</link>
+      <pubDate>Mon, 19 Sep 2016 18:02:25 -0500</pubDate>
+      
+      <guid>https://stephenashmore.gitlab.io/publication/thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fourier Networks 2016</title>
+      <link>https://stephenashmore.gitlab.io/publication/fourierNetworks16/</link>
+      <pubDate>Mon, 19 Sep 2016 18:02:13 -0500</pubDate>
+      
+      <guid>https://stephenashmore.gitlab.io/publication/fourierNetworks16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fourier Networks 2014</title>
+      <link>https://stephenashmore.gitlab.io/publication/fourierNetworks14/</link>
+      <pubDate>Mon, 19 Sep 2016 18:01:57 -0500</pubDate>
+      
+      <guid>https://stephenashmore.gitlab.io/publication/fourierNetworks14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forward Bipartite Alignment</title>
+      <link>https://stephenashmore.gitlab.io/publication/ijcnn15/</link>
+      <pubDate>Mon, 19 Sep 2016 18:01:15 -0500</pubDate>
+      
+      <guid>https://stephenashmore.gitlab.io/publication/ijcnn15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Super Neural Scaler</title>
+      <link>https://stephenashmore.gitlab.io/project/superScaler/</link>
+      <pubDate>Mon, 19 Sep 2016 17:42:31 -0500</pubDate>
+      
+      <guid>https://stephenashmore.gitlab.io/project/superScaler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Compression</title>
+      <link>https://stephenashmore.gitlab.io/project/imagecompression/</link>
+      <pubDate>Mon, 19 Sep 2016 16:20:36 -0500</pubDate>
+      
+      <guid>https://stephenashmore.gitlab.io/project/imagecompression/</guid>
+      <description>&lt;p&gt;Image Compression is a useful tool to save disk space, and computation speed. JPG is a great example of a popular image compression technique. However, can we do better with a machine learning technique like neural networks? I&amp;rsquo;m playing around with neural networks to see how well a technique I call neural inference can compress an image. A few caveats, it will probably be much slower than JPG. Depending on the implementation, you could end up using a lot of &amp;ldquo;feed forwards&amp;rdquo; to generate the uncompressed version of the image, and that is just not good for displaying an image. Users demand super fast display of images, and neural networks may not be the best here.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
