@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Stephen Ashmore</title>
+    <link>https://stephenashmore.gitlab.io/publication/</link>
+    <description>Recent content in Publications on Stephen Ashmore</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Sep 2016 18:02:25 -0500</lastBuildDate>
+    <atom:link href="https://stephenashmore.gitlab.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Master&#39;s Thesis, 2015</title>
+      <link>https://stephenashmore.gitlab.io/publication/thesis/</link>
+      <pubDate>Mon, 19 Sep 2016 18:02:25 -0500</pubDate>
+      
+      <guid>https://stephenashmore.gitlab.io/publication/thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fourier Networks 2016</title>
+      <link>https://stephenashmore.gitlab.io/publication/fourierNetworks16/</link>
+      <pubDate>Mon, 19 Sep 2016 18:02:13 -0500</pubDate>
+      
+      <guid>https://stephenashmore.gitlab.io/publication/fourierNetworks16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fourier Networks 2014</title>
+      <link>https://stephenashmore.gitlab.io/publication/fourierNetworks14/</link>
+      <pubDate>Mon, 19 Sep 2016 18:01:57 -0500</pubDate>
+      
+      <guid>https://stephenashmore.gitlab.io/publication/fourierNetworks14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forward Bipartite Alignment</title>
+      <link>https://stephenashmore.gitlab.io/publication/ijcnn15/</link>
+      <pubDate>Mon, 19 Sep 2016 18:01:15 -0500</pubDate>
+      
+      <guid>https://stephenashmore.gitlab.io/publication/ijcnn15/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
