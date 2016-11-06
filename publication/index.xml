@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Stephen Ashmore</title>
-    <link>/publication/</link>
+    <link>http://ashmore.io/publication/</link>
     <description>Recent content in Publications on Stephen Ashmore</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 19 Sep 2016 18:02:25 -0500</lastBuildDate>
-    <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ashmore.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Master&#39;s Thesis, 2015</title>
-      <link>/publication/thesis/</link>
+      <link>http://ashmore.io/publication/thesis/</link>
       <pubDate>Mon, 19 Sep 2016 18:02:25 -0500</pubDate>
       
-      <guid>/publication/thesis/</guid>
+      <guid>http://ashmore.io/publication/thesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fourier Networks 2016</title>
-      <link>/publication/fourierNetworks16/</link>
+      <link>http://ashmore.io/publication/fourierNetworks16/</link>
       <pubDate>Mon, 19 Sep 2016 18:02:13 -0500</pubDate>
       
-      <guid>/publication/fourierNetworks16/</guid>
+      <guid>http://ashmore.io/publication/fourierNetworks16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fourier Networks 2014</title>
-      <link>/publication/fourierNetworks14/</link>
+      <link>http://ashmore.io/publication/fourierNetworks14/</link>
       <pubDate>Mon, 19 Sep 2016 18:01:57 -0500</pubDate>
       
-      <guid>/publication/fourierNetworks14/</guid>
+      <guid>http://ashmore.io/publication/fourierNetworks14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Forward Bipartite Alignment</title>
-      <link>/publication/ijcnn15/</link>
+      <link>http://ashmore.io/publication/ijcnn15/</link>
       <pubDate>Mon, 19 Sep 2016 18:01:15 -0500</pubDate>
       
-      <guid>/publication/ijcnn15/</guid>
+      <guid>http://ashmore.io/publication/ijcnn15/</guid>
       <description></description>
     </item>
     
