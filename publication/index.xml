@@ -6,8 +6,27 @@
     <description>Recent content in Publications on Stephen Ashmore</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Sep 2016 18:02:25 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 18 Dec 2016 14:32:59 -0600</lastBuildDate>
     <atom:link href="http://ashmore.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Practical Techniques for Using Neural Networks to Estimate State From Images</title>
+      <link>http://ashmore.io/publication/icmla16/</link>
+      <pubDate>Sun, 18 Dec 2016 14:32:59 -0600</pubDate>
+      
+      <guid>http://ashmore.io/publication/icmla16/</guid>
+      <description>&lt;p&gt;This paper is a part of our work on using neural networks to train robots to perform problems.
+It includes practical techniques for dealing with huge images, chaotic systems, and more.&lt;/p&gt;
+
+&lt;p&gt;Abstract:
+An important task for training a robot (virtual or real) is to estimate state.
+State includes the state of the robot and its environment.
+Images from digital cameras are commonly used to monitor the robot due to the rich information, and low-cost hardware.
+Neural networks excel at categorizing images, and should prove powerful to estimate the state of the robot from these images.
+There are many problems that occur when attempting to estimate state with neural networks, including high resolution of images, training time, vanishing gradient, and more.
+This paper presents several practical techniques for facilitating state estimation from images with neural networks.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Master&#39;s Thesis, 2015</title>
